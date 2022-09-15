@@ -1,1 +1,2 @@
 # CV-Class
+git rm
